@@ -13,6 +13,7 @@ typedef struct file{
 	int date; 
 	int size;
 	int permission;
+	int type;
 }File;
 
 

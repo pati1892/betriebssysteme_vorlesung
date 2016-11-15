@@ -1,0 +1,3 @@
+1. Directory entry löschen
+2. Blöcke freigeben
+3. Inode freigeben
