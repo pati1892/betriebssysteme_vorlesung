@@ -1,0 +1,4 @@
+#! /bin/bash
+
+files=$(($(ls -l $HOM $HOME | grep -v ^d | wc -l) -1))
+proc=$(( $(ps -e | wc -l) - 1))

@@ -1,0 +1,12 @@
+1b)
+grep "^ls " .bash_history
+1c) 
+grep ^Ger /usr/share/dict/american-english > $(date +%A).txt
+1d)
+wendet auf alle Funde den Shellbefehl KOMMANDO an. {} steht dabei als Platzhalter für die gefundenen Dateinamen. Das Zeichen ; terminiert den von find aufzurufenden Shellbefehl, damit es nicht unbeabsichtigt von der Shell interpretiert wird muss es mit \ maskiert werden. 
+find . -name "test.file" -exec rm{} \;
+1f)
+ifconfig. w ist wlan, en ethernet.	
+2b)
+cat /proc/version
+2a)

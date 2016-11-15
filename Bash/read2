@@ -1,0 +1,10 @@
+#! /bin/bash
+
+read input
+hilfe=hilfe
+echo $input
+echo ${#input}
+if [ "$input" = "$hilfe" ];
+then
+echo "hilfe"
+fi

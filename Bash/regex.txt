@@ -1,0 +1,6 @@
+grep  ^[aA][bB] american-english 
+
+grep pp$ american-english | wc -w
+
+grep ^[Ss]hut american-english | cut -c 5-
+

@@ -1,0 +1,4 @@
+#! /bin/bash
+
+bin=$(echo "obase=2;$1 | bc)
+echo "Binary: $bin"
