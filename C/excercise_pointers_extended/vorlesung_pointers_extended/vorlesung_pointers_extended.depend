@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479825095 source:/home/patrick/OS/betriebssysteme_vorlesung/C/excercise_pointers_extended/vorlesung_pointers_extended/main.c
+	<stdio.h>
+	<stdlib.h>
+
